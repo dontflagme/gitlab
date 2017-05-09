@@ -2,3 +2,5 @@
 ## Team
 * Alex
 * Bob
+* Yanni
+* Ziggy
